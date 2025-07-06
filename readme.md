@@ -10,6 +10,7 @@ A Comprehensive Benchmark for Face Animatable Avatar Generation
   <a href="#" target="_blank">Paper</a> |
   <a href="#" target="_blank">Dataset</a>
 </p>
+
 ## 📖 Introduction
 
 The Face Animatable Avatar Generation Benchmark Dataset addresses a gap in evaluating face animatable avatar generation systems. Creating realistic, fully animatable face avatars from a single static expression remains challenging, as existing methods struggle to accurately capture:
